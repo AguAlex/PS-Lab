@@ -1,0 +1,1 @@
+# Stim ca frecventa maxima din semnal e 200Hz si mai stim din teorema de esantionare Nyquist-Shannon avem nevoie de o freventa > 2 * frecventa maxima din semnal, deci ne trebuie o frecventa de minim 2 * 200 + 1 = 401 Hz pentru a contine toate componentele de frecventa si pentru a nu pierde informatie

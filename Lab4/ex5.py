@@ -1,0 +1,1 @@
+# Se pot observa diferentele intre vocale, desi exista similaritati intre e si i. Vocalele a si u sunt cele mai diferite in spectograma
